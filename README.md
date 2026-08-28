@@ -1,1 +1,4 @@
 COMING SOON
+AI CAHTBOX USING MUTLIPLE AI APIs FOR EASIER MANOUVERING. EASILY CHANGE MODEL IN SAME CHAT WITHOUT NEEDING TO STRESS ABOUT REWRITING. UNIQUE FEATURES AND MORE!
+<img width="1280" height="640" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/84863849-d6fb-4bf3-a110-937d93857bf7" />
+
